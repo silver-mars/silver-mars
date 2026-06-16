@@ -1,6 +1,17 @@
-- Hi, I’m Silver.
-- I’m interested in devops engineering.
-- I’m currently learning C, shell, python, SQL.
-- I’m looking for collaborating real cool team, where my skills and desire to grow, learn, develop and work will be demanded.
-- How to reach me:</br>
-`Telegram:` s_silverus
+Hi, I'm Silver — DevOps Engineer & Solution Architect
+
+Focused on **infrastructure as code**, **CI/CD pipelines**, and **cloud-native architecture** on OpenStack and hybrid environments.
+
+## What I work with
+
+- **IaC:** Terraform, Ansible — declarative infrastructure, idempotent provisioning
+- **CI/CD:** GitLab CI, pipeline design, environment promotion
+- **Cloud:** OpenStack (private cloud), hybrid architecture
+- **Languages:** Python, Shell, SQL, C
+- **Architecture:** system decomposition, service boundary design, cross-team technical alignment
+
+## Find me
+
+- CV & experience — [LinkedIn](https://www.linkedin.com/in/anatoly-panin-bychkov-521074387/)
+- Telegram: `s_silverus`
+- Open to remote roles with international teams
